@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Edwin Passerian 👋
 
-<!--
-**Passerian/Passerian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate currently pursuing a Bachelor of Science in Computer Science at Zetech University. I'm in Year 3, Semester 1, and building practical skills through software and DevOps projects.
 
-Here are some ideas to get you started:
+## DevOps Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and exploring:
+
+- Git and GitHub
+- Linux and Bash
+- Docker
+- GitHub Actions
+- Terraform
+- AWS
+- Kubernetes
+- Prometheus and Grafana
+
+## Currently
+
+- Studying Computer Science at Zetech University
+- Practicing CI/CD and DevOps through hands-on projects
